@@ -1,0 +1,45 @@
+.featured__main {
+  background-color: #dfffca;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.featuredParent {
+  background-color: #dfffca;
+  border-radius: 4px;
+  padding: 16px 16px 40px;
+  margin: 16px 0 24px;
+  width: 100% !important;
+}
+
+.featuredRow div {
+  padding: 5px !important;
+  margin: 0 !important;
+}
+
+.featuredHeading {
+  background-color: #dfffca;
+}
+.CardImg {
+  height: 250px !important;
+}
+.card {
+  margin-right: 10px !important;
+  margin-left: 10px !important;
+  cursor: pointer;
+}
+.card:hover {
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+.react-multiple-carousel__arrow--left,
+.react-multiple-carousel__arrow--right {
+  position: absolute !important;
+  top: 150px !important;
+  z-index: 100 !important;
+}
+.react-multi-carousel-dot-list {
+  margin: 9px 0 !important;
+}
+
+.card-body {
+  padding: 0.5rem !important;
+}

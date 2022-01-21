@@ -1,0 +1,63 @@
+.productsCarousel img {
+  width: 100% !important;
+  height: 600px !important;
+}
+.priceandicon {
+  display: flex;
+  justify-content: space-between;
+}
+.avatarandname {
+  display: flex;
+}
+.border-radius-50 {
+  border-radius: 50%;
+}
+.chatwithSeller {
+  display: block !important;
+  color: white !important;
+  outline: none !important;
+  font-family: "Baloo Da 2", cursive !important;
+  font-size: 18px !important;
+  font-weight: 500 !important;
+  background-color: #3b8138 !important;
+  border: 3px solid black !important;
+  width: 95% !important;
+  padding: 12px 0px !important;
+  margin-bottom: 20px;
+}
+.chatwithSeller:hover {
+  color: #002f34 !important;
+  background-color: white !important;
+}
+
+.product__box {
+  font-family: "Baloo Da 2", cursive;
+}
+
+.productDetails__phoneNum {
+  margin-left: -8px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.icon__color {
+  color: #3b8138;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 900px) {
+  .productDetailsParent,
+  .productsCarousel img {
+    margin-bottom: 23px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .productsCarousel img {
+    height: auto !important;
+    width: 96% !important;
+  }
+}

@@ -1,0 +1,10 @@
+.breadcrumb__section {
+  font-family: "Baloo Da 2", cursive;
+}
+
+a {
+  color: gray !important;
+}
+a:hover {
+  color: #3b8138 !important;
+}

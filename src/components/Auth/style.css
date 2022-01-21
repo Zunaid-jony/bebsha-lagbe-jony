@@ -1,0 +1,30 @@
+.shadow {
+  -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+  -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+
+.display__font {
+  background-color: #ddf6c9;
+  min-height: 100vh;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.background {
+  background-color: #fff;
+}
+
+.routeLink {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.routeLinkName:hover {
+  color: #3b8138;
+}
+
+.login__button {
+  font-size: 20px;
+}

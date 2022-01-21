@@ -1,0 +1,33 @@
+.app__heading {
+  color: #3b8138;
+  font-weight: 600;
+}
+
+.app__heading p {
+  font-weight: 300;
+}
+
+.mainAppAdds {
+  background: rgba(0, 47, 52, 0.03);
+  padding: 20px;
+  margin-top: 20px;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.apptoday {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-left: 50px;
+  font-size: 18px;
+}
+
+.playstorebtn,
+.appstorebtn {
+  margin: 10px;
+  width: 100px;
+}
+
+.playstorebtn {
+  margin-left: 50px;
+}

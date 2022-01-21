@@ -1,0 +1,17 @@
+.adds__title {
+  font-family: "Baloo Da 2", cursive;
+  font-size: 36px;
+  color: #3b8138;
+  font-weight: 600px;
+  display: flex;
+  margin: 25px auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.adds__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+}

@@ -1,0 +1,21 @@
+.category__Main {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #f8f9fa !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+.category__Main p {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.category__Main p:hover {
+  color: #3b8138;
+}

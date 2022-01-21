@@ -1,0 +1,34 @@
+.display__font {
+  background-color: #ddf6c9;
+  min-height: 100vh;
+  font-weight: 500;
+  font-family: "Baloo Da 2", cursive;
+}
+
+.background {
+  background-color: #fff;
+}
+
+.navbar {
+  background-color: rgba(0, 47, 52, 0.03);
+}
+.faArrowLeft {
+  font-weight: 800;
+}
+a {
+  color: black !important;
+}
+.postNavbar {
+  margin-top: -12px;
+  margin-left: 20px;
+}
+
+.post__spinner {
+  width: 6rem !important;
+  height: 5rem !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 39%;
+}
