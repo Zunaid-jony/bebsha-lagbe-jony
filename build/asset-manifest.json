@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52a4ad28.chunk.css",
+    "main.js": "/static/js/main.187c66f8.chunk.js",
+    "main.js.map": "/static/js/main.187c66f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8da10cc0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8da10cc0.js.map",
+    "static/css/2.ff822df3.chunk.css": "/static/css/2.ff822df3.chunk.css",
+    "static/js/2.1f6291f0.chunk.js": "/static/js/2.1f6291f0.chunk.js",
+    "static/js/2.1f6291f0.chunk.js.map": "/static/js/2.1f6291f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ff822df3.chunk.css.map": "/static/css/2.ff822df3.chunk.css.map",
+    "static/css/main.52a4ad28.chunk.css.map": "/static/css/main.52a4ad28.chunk.css.map",
+    "static/js/2.1f6291f0.chunk.js.LICENSE.txt": "/static/js/2.1f6291f0.chunk.js.LICENSE.txt",
+    "static/media/404.1f05b34b.webp": "/static/media/404.1f05b34b.webp",
+    "static/media/avatar.35a8db04.png": "/static/media/avatar.35a8db04.png",
+    "static/media/bg-cover1.508fb721.png": "/static/media/bg-cover1.508fb721.png",
+    "static/media/bg-cover2.e683c5bb.png": "/static/media/bg-cover2.e683c5bb.png",
+    "static/media/bg-cover3.75dbf28c.jpg": "/static/media/bg-cover3.75dbf28c.jpg",
+    "static/media/facebook-brands.033c50dd.svg": "/static/media/facebook-brands.033c50dd.svg",
+    "static/media/instagram-brands.90a80cd5.svg": "/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/loginEntryPointChat.1f01f233.webp": "/static/media/loginEntryPointChat.1f01f233.webp",
+    "static/media/loginEntryPointFavorite.9b9b00c1.webp": "/static/media/loginEntryPointFavorite.9b9b00c1.webp",
+    "static/media/loginEntryPointPost.1f665193.webp": "/static/media/loginEntryPointPost.1f665193.webp",
+    "static/media/logo.a6e9f20d.png": "/static/media/logo.a6e9f20d.png",
+    "static/media/map.b5f63657.png": "/static/media/map.b5f63657.png",
+    "static/media/myadds.6e364396.webp": "/static/media/myadds.6e364396.webp",
+    "static/media/no-photo.ac1b94f6.jpg": "/static/media/no-photo.ac1b94f6.jpg",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/tractor.ddb03895.gif": "/static/media/tractor.ddb03895.gif",
+    "static/media/twitter-square-brands.763ddc74.svg": "/static/media/twitter-square-brands.763ddc74.svg",
+    "static/media/village.311b20a0.webp": "/static/media/village.311b20a0.webp",
+    "static/media/youtube-brands.c8f52198.svg": "/static/media/youtube-brands.c8f52198.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8da10cc0.js",
+    "static/css/2.ff822df3.chunk.css",
+    "static/js/2.1f6291f0.chunk.js",
+    "static/css/main.52a4ad28.chunk.css",
+    "static/js/main.187c66f8.chunk.js"
+  ]
+}
